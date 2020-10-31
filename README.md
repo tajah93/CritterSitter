@@ -59,7 +59,7 @@ Project 2
 
 ### Contributors
 * Lisa Worsham - Front-end/UI development, Heroku deployment
-* Tajah Johnson - sequelize seeder 
+* Tajah Johnson - Database, Sequelize Seeder 
 * Allen DeHoff - Back-end developer, UI/Back-end integration
 * Shawn Morgan - UX concept design, Add Pet feature, e-mail nodemailer integration, project documentation, Scrum master 
 
